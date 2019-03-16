@@ -6,7 +6,7 @@
 
 也可以通过微信联系我。
 
-![微信](https://github.com/Brucepk/pk.github.io/blob/master/wx.jpg)
+![微信](https://github.com/Brucepk/pk.github.io/blob/master/pkwx.jpg)
 
 几年前，我们给爸妈手机上下载了一款神奇的软件，他的名字叫做微信。几年后，爸妈就开始吐槽我们的微信头像了。
 
