@@ -1,8 +1,15 @@
 # Python爬取微信所有好友头像，合成一张大图
 
-## 本代码文章首发于公众号「Python知识圈」，如需转载，请通过公众号联系作者pk哥，谢谢
+## 个人官网
+欢迎访问个人官网： https://www.pyzhishiquan.com/
+
+## 微信公众号
+欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
+
+## 本代码文章首发于公众号「Python知识圈」，如需转载，请通过公众号联系作者pk哥，谢谢
+
 
 也可以通过微信联系我。
 
